@@ -1,15 +1,8 @@
-<!-- cabecera start -->
-```text
- ___                   _ 
-|_ _|__ _ _ _  __ _ __(_)
- | |/ _` | ' \/ _` (_-< |
-|___\__, |_||_\__,_/__/_|
-    |___/
-```
-<!-- cabecera end -->
+# Ignasi
 
-Soy Ignasi, ingeniero informático. Desarrollo software para clientes y aplicaciones Android en Kotlin. En mi [portfolio](https://portfolio.bcignasi.workers.dev/) cuento cómo tomé las decisiones técnicas de cada proyecto.
+Soy ingeniero informático. Desarrollo software a medida para clientes y aplicaciones Android en Kotlin.
 
-- **[Holística](https://portfolio.bcignasi.workers.dev/holistica)** · Desarrollé una herramienta a medida para una farmacia. El caso de estudio cuenta qué necesitaba el equipo y cómo traduje esas necesidades en software.
-- **[ProcrastinApp](https://github.com/bcignasi/ProcrastinApp)** · Para mi TFG en la UOC creé una agenda Android en Kotlin y Jetpack Compose. El asistente convierte una conversación en propuestas de tareas y cada persona decide cuáles guardar. El proyecto obtuvo Matrícula de Honor.
-- **[FIGlet para dōteki](https://github.com/welpo/doteki/pull/12)** · Escribí el plugin que dibuja mi nombre al principio de este README. Convierte texto en arte ASCII y permite elegir la tipografía desde un archivo TOML.
+- **Holística**. Trabajé con una farmacia para convertir las necesidades de su equipo en una herramienta a medida. [Leer el caso de estudio](https://portfolio.bcignasi.workers.dev/holistica)
+- **ProcrastinApp**. Creé una agenda Android que convierte una conversación en tareas que puedes revisar y guardar. Fue mi TFG en la UOC y obtuvo Matrícula de Honor. [Ver el código en Kotlin](https://github.com/bcignasi/ProcrastinApp)
+
+[Visitar mi portfolio](https://portfolio.bcignasi.workers.dev/)
