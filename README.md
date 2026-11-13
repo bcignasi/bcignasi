@@ -5,4 +5,6 @@ I'm a software engineer. I build custom software for clients and develop mobile 
 - **Holística** — I worked with a pharmacy team to understand what they needed and build a tool for their day-to-day work. [Read the case study](https://portfolio.bcignasi.workers.dev/holistica)
 - **ProcrastinApp** — I built a mobile planner that turns a conversation into tasks you can review and save. It was my final degree project at the UOC and earned the highest distinction (*Matrícula de Honor*). [Explore the code](https://github.com/bcignasi/ProcrastinApp)
 
+<a href="https://portfolio.bcignasi.workers.dev/"><img align="right" width="45" src="./assets/alien-peek.png" alt="Visit my portfolio — a little alien peeks around the corner"></a>
+
 [Visit my portfolio](https://portfolio.bcignasi.workers.dev/)
