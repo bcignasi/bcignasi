@@ -1,8 +1,8 @@
 # Ignasi
 
-Soy ingeniero informático. Desarrollo software a medida para clientes y aplicaciones Android en Kotlin.
+I'm a software engineer. I build custom software for clients and develop mobile apps.
 
-- **Holística**. Trabajé con una farmacia para convertir las necesidades de su equipo en una herramienta a medida. [Leer el caso de estudio](https://portfolio.bcignasi.workers.dev/holistica)
-- **ProcrastinApp**. Creé una agenda Android que convierte una conversación en tareas que puedes revisar y guardar. Fue mi TFG en la UOC y obtuvo Matrícula de Honor. [Ver el código en Kotlin](https://github.com/bcignasi/ProcrastinApp)
+- **Holística** — I worked with a pharmacy team to understand what they needed and build a tool for their day-to-day work. [Read the case study](https://portfolio.bcignasi.workers.dev/holistica)
+- **ProcrastinApp** — I built a mobile planner that turns a conversation into tasks you can review and save. It was my final degree project at the UOC and earned the highest distinction (*Matrícula de Honor*). [Explore the code](https://github.com/bcignasi/ProcrastinApp)
 
-[Visitar mi portfolio](https://portfolio.bcignasi.workers.dev/)
+[Visit my portfolio](https://portfolio.bcignasi.workers.dev/)
