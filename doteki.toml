@@ -1,0 +1,9 @@
+# Para regenerar la cabecera con Python 3.11 o superior:
+# python -m pip install "doteki[figlet]==0.0.10"
+# doteki
+credits = ""
+
+[sections.cabecera]
+plugin = "figlet"
+ascii_text = "Ignasi"
+font = "small"
