@@ -1,7 +1,7 @@
 <a href="https://portfolio.bcignasi.workers.dev/">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.png">
-    <img src="./assets/profile-header.png" width="100%" alt="Ignasi — visit my portfolio">
+    <source media="(max-width: 600px)" srcset="./assets/perspective-grid-mobile.png">
+    <img src="./assets/perspective-grid.png" width="100%" alt="Ignasi — visit my portfolio">
   </picture>
 </a>
 
