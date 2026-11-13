@@ -1,4 +1,9 @@
-<h1><a href="https://portfolio.bcignasi.workers.dev/"><img align="right" width="58" src="./assets/alien-peek.png" alt="Visit my portfolio"></a>Ignasi</h1>
+<a href="https://portfolio.bcignasi.workers.dev/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.png">
+    <img src="./assets/profile-header.png" width="100%" alt="Ignasi — visit my portfolio">
+  </picture>
+</a>
 
 I'm a software engineer. I build custom software for clients and develop mobile apps.
 
